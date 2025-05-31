@@ -1,0 +1,15 @@
+[
+    {
+        "task": "Learn Python basics",
+        "done": false
+    },
+    {
+        "task": "Build a To-Do List project",
+        "done": true
+    },
+    {
+        "task": "Upload project to GitHub",
+        "done": false
+    }
+]
+
